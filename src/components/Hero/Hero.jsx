@@ -7,7 +7,7 @@ import "../../scrollbar.css";
 
 const Hero = () => {
   return (
-    <div className="sm:h-[78vh] h-[65vh] relative pt-20">
+    <div className="sm:h-[78vh] h-[65vh] relative top-20">
       <div className="absolute top-0 left-0 w-full h-full hero-gradient z-10"></div>
       <img src={hero} alt="Hero" className="w-full h-full object-cover" />
       <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-20 w-[93vw] text-center leading-none">
