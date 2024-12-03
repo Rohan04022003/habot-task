@@ -1,0 +1,25 @@
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #00880741;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #15ff0054;
+}
+
+.hero-gradient {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.833) 0%,
+    rgba(0, 0, 0, 0.651) 41%,
+    rgba(0, 0, 0, 0.425) 100%
+  );
+}
