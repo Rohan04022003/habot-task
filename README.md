@@ -15,12 +15,6 @@ This repository contains the solution for the **Habot assessment task**, where I
 Clone the repository to your local machine using the following command:
 ```bash
 git clone https://github.com/your-username/your-repository-name.git
-
-
-bash
-Copy code
-git clone https://github.com/your-username/your-repository-name.git
-
 cd your-repository-name
 npm install
 
