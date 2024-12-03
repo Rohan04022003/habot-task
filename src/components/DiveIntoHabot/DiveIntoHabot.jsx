@@ -17,7 +17,7 @@ const DiveIntoHabot = () => {
   ];
 
   return (
-    <div className="flex lg:flex-row flex-col justify-between xl:mx-24 lg:mx-10 mx-3 md:my-24 my-16 gap-10">
+    <div className="flex lg:flex-row flex-col justify-between xl:mx-24 lg:mx-10 mx-3 md:my-24 my-16 gap-10 pt-20">
       <div className="lg:w-1/2 w-full">
         <h2 className="text-4xl font-bold leading-none">
           Ready to dive into <span className="text-[#271554]">HABOT?</span>
